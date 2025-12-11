@@ -1,4 +1,4 @@
-# GitHub ARC en GKE – README Completo con Diagramas
+# GitHub ARC en GKE 
 
 ## 🚀 Descripción General
 Este documento explica cómo implementar **Actions Runner Controller (ARC)** en **Google Kubernetes Engine (GKE)**, configurar *runner scale sets* y habilitar **Docker-in-Docker (dind)** para ejecutar flujos de GitHub Actions dentro de Kubernetes.
