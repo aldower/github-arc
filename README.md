@@ -196,6 +196,3 @@ Con este setup:
 - Puedes construir y publicar imágenes en GHCR desde Kubernetes
 
 ---
-
-¿Necesitas agregar diagramas adicionales, badges o una versión en inglés?  
-¡Puedo generarlo también!
